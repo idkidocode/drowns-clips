@@ -1,7 +1,7 @@
 {
   "founders": [
     { "name": "drowns", "role": "Founder" },
-    { "name": ".", "role": "Co-Founder" }
+    { "name": "z.y.v._.", "role": "Co-Founder" }
   ],
   "vrml": [
     {
@@ -14,7 +14,7 @@
         { "name": "elite_vr." },
         { "name": "z.y.v._." },
         { "name": "s.o.l.a.r.3" },
-        { "name": "Test" }
+        { "name": null }
       ]
     },
     {
