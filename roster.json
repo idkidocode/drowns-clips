@@ -1,0 +1,91 @@
+{
+  "founders": [
+    { "name": "drowns", "role": "Founder" },
+    { "name": "z.y.v._.", "role": "Co-Founder" }
+  ],
+  "vrml": [
+    {
+      "name": "DROWN NA",
+      "slots": "5/6",
+      "link": "https://oriondriftcompetitive.com/teams/6a1adae9bf425bc28d5d260c",
+      "players": [
+        { "name": "furrykitten", "captain": true },
+        { "name": "drowns" },
+        { "name": "elite_vr." },
+        { "name": "z.y.v._." },
+        { "name": "s.o.l.a.r.3" },
+        { "name": null }
+      ]
+    },
+    {
+      "name": "DROWN EU",
+      "slots": "0/6",
+      "link": "https://oriondriftcompetitive.com/teams/6a1adb6fbf425bc28d5d26bf",
+      "players": [
+        { "name": null }, { "name": null }, { "name": null },
+        { "name": null }, { "name": null }, { "name": null }
+      ]
+    },
+    {
+      "name": "DROWN OCE",
+      "slots": "0/6",
+      "link": "https://oriondriftcompetitive.com/teams/6a1adb84bf425bc28d5d270a",
+      "players": [
+        { "name": "Lucas", "captain": true },
+        { "name": null }, { "name": null },
+        { "name": null }, { "name": null }, { "name": null }
+      ]
+    }
+  ],
+  "scrim": [
+    {
+      "name": "DROWN X NA",
+      "slots": "3/6",
+      "players": [
+        { "name": "jzle__" }, { "name": "sheadoggy_44128" }, { "name": "rylandalt" },
+        { "name": null }, { "name": null }, { "name": null }
+      ]
+    },
+    {
+      "name": "DROWN X EU",
+      "slots": "0/6",
+      "players": [
+        { "name": null }, { "name": null }, { "name": null },
+        { "name": null }, { "name": null }, { "name": null }
+      ]
+    },
+    {
+      "name": "DROWN X OCE",
+      "slots": "0/6",
+      "players": [
+        { "name": null }, { "name": null }, { "name": null },
+        { "name": null }, { "name": null }, { "name": null }
+      ]
+    },
+    {
+      "name": "DROWN Z NA",
+      "slots": "1/6",
+      "players": [
+        { "name": "carterrr0572" },
+        { "name": null }, { "name": null },
+        { "name": null }, { "name": null }, { "name": null }
+      ]
+    },
+    {
+      "name": "DROWN Z EU",
+      "slots": "0/6",
+      "players": [
+        { "name": null }, { "name": null }, { "name": null },
+        { "name": null }, { "name": null }, { "name": null }
+      ]
+    },
+    {
+      "name": "DROWN Z OCE",
+      "slots": "0/6",
+      "players": [
+        { "name": null }, { "name": null }, { "name": null },
+        { "name": null }, { "name": null }, { "name": null }
+      ]
+    }
+  ]
+}
